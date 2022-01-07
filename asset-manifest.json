@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/jewelbeautyprototype/static/css/main.c2dd5ad2.css",
-    "main.js": "/jewelbeautyprototype/static/js/main.6ef69210.js",
+    "main.css": "/jewelbeautyprototype/static/css/main.5d567789.css",
+    "main.js": "/jewelbeautyprototype/static/js/main.31963d3f.js",
     "static/js/787.070db070.chunk.js": "/jewelbeautyprototype/static/js/787.070db070.chunk.js",
     "static/media/271164249_967499053842170__n.jpg": "/jewelbeautyprototype/static/media/271164249_967499053842170_1386459683861825788_n.ac1b45e3e281bc664b48.jpg",
     "static/media/nail-art.jpeg": "/jewelbeautyprototype/static/media/nail-art.30851a5157d4c7db08cf.jpeg",
@@ -11,12 +11,12 @@
     "static/media/jewelbeauty.jpeg": "/jewelbeautyprototype/static/media/jewelbeauty.a563703ad8f83912e1ed.jpeg",
     "static/media/logo.svg": "/jewelbeautyprototype/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/jewelbeautyprototype/index.html",
-    "main.c2dd5ad2.css.map": "/jewelbeautyprototype/static/css/main.c2dd5ad2.css.map",
-    "main.6ef69210.js.map": "/jewelbeautyprototype/static/js/main.6ef69210.js.map",
+    "main.5d567789.css.map": "/jewelbeautyprototype/static/css/main.5d567789.css.map",
+    "main.31963d3f.js.map": "/jewelbeautyprototype/static/js/main.31963d3f.js.map",
     "787.070db070.chunk.js.map": "/jewelbeautyprototype/static/js/787.070db070.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2dd5ad2.css",
-    "static/js/main.6ef69210.js"
+    "static/css/main.5d567789.css",
+    "static/js/main.31963d3f.js"
   ]
 }
